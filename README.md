@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emiliano Cassoni</h1>
-<h3 align="center">Junior Front End Developer on the way to Full Stack de Corrientes, 🇦🇷</h3>
+<h3 align="center">Junior Front End Developer on the way to Full Stack from Corrientes, 🇦🇷</h3>
 
 - 🔭 I am working on **new projects in React and React Native.**
+
+- ⚡ I’m currently studying "Licenciatura en Sistemas" (Bachelor's Degree in Systems) at Universidad Nacional del Nordeste. 
 
 - 🌱 I’m currently learning **JAva and UX/UI design.**
 
