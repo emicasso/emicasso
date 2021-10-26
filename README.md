@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emiliano Cassoni</h1>
 <h3 align="center">Junior Front End Developer on the way to Full Stack from Corrientes, 🇦🇷</h3>
-![](https://komarev.com/ghpvc/?username=your-github-emicasso&color=blueviolet)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emicasso&label=Profile%20views&color=0e75b6&style=flat" alt="emicasso" /> </p>
 
 - 🔭 I am working on **new projects in React and React Native.**
 
