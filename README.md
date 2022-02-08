@@ -7,7 +7,7 @@
 
 - ⚡ I’m currently studying "Licenciatura en Sistemas" (Bachelor's Degree in Systems) at Universidad Nacional del Nordeste. 
 
-- 🌱 I’m currently learning **Java and Reac.Js **
+- 🌱 I’m currently learning **Reac.Js and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emicasso?tab=repositories](https://github.com/emicasso?tab=repositories)
  
